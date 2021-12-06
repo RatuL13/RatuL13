@@ -1,6 +1,5 @@
-- 👋 Hi, I’m RatuL Hans
+- 👋 Hi, I’m Ratul Hans
 - 👀 I’m interested in exploring the field of web development
-- 🌱 I’m currently learning react.js
 - 📫 How to reach me:- Reach out to me through LinkedIn:-https://www.linkedin.com/in/ratul-hans-599341140/
 
 <!---
